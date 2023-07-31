@@ -8,10 +8,10 @@ tomegg:
 # Meta information about this report
 meta:
   evaluator:
-    name: Darren
+    name: Baron
     socials:
-      email: darren@tome.gg
-      eth: sapalo.eth
+      email: barondimaranan@gmail.com
+      eth:
   dimensions:
     - alias: focus
       name: focus
@@ -22,16 +22,14 @@ evaluations:
   - id: 385d9c24-be5c-5032-a163-7ddab2d35a78
     measurements:
       - dimension: focus
+        score: 4
+        remarks: >
+          I worked way past my 3 hours. Sorry Darren. I was too hyped and I sincerely had fun.
+          In terms of focus on the work - it is pretty high. In terms of focus and management of time, I lost track.
+          I had a great time though and it wasn't stressful.
+  - id: a7fd6a39-b857-585f-9233-85cec2027477
+    measurements:
+      - dimension: focus
         score: 2
         remarks: >
-          I was familiar with the concept already, but did not really get to
-          practice completely because I was too busy juggling a few things. In
-          that regard, I haven't really been able to focus.
-  - id: a7fd6a39-b857-585f-9233-85cec2027477
-    measurements:
-      - dimension: focus
-        score: 2
-  - id: a7fd6a39-b857-585f-9233-85cec2027477
-    measurements:
-      - dimension: focus
-        score: 2
+          This hasn't happened yet - But I will post this to test the Tome.gg deployment process.
