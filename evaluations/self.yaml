@@ -1,0 +1,37 @@
+# The following definition enables the Tome.gg librarian to recognize this YAML format
+# as conforming to the 0.1.0 version of the training definition.
+tomegg:
+  type: evaluations
+  version: 0.1.0
+  definition: https://protocol.tome.gg/evaluations/0.1.0
+
+# Meta information about this report
+meta:
+  evaluator:
+    name: Darren
+    socials:
+      email: darren@tome.gg
+      eth: sapalo.eth
+  dimensions:
+    - alias: focus
+      name: focus
+      version: 0.1.0
+      definition: https://protocol.tome.gg/dimensions/focus/0.1.0
+
+evaluations:
+  - id: 385d9c24-be5c-5032-a163-7ddab2d35a78
+    measurements:
+      - dimension: focus
+        score: 2
+        remarks: >
+          I was familiar with the concept already, but did not really get to
+          practice completely because I was too busy juggling a few things. In
+          that regard, I haven't really been able to focus.
+  - id: a7fd6a39-b857-585f-9233-85cec2027477
+    measurements:
+      - dimension: focus
+        score: 2
+  - id: a7fd6a39-b857-585f-9233-85cec2027477
+    measurements:
+      - dimension: focus
+        score: 2

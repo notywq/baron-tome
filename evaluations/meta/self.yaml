@@ -1,0 +1,23 @@
+# The following definition enables the Tome.gg librarian to recognize this YAML format
+# as conforming to the 0.1.0 version of the training definition.
+tomegg:
+  type: evaluations
+  subtype: meta
+  version: 0.1.0
+  definition: https://protocol.tome.gg/evaluations/0.1.0
+
+# Meta information about this report
+meta:
+  dimensions:
+    - alias: teaching
+      name: teaching
+      version: 0.1.0
+      definition: https://protocol.tome.gg/dimensions/teaching/0.1.0
+
+evaluations:
+  - id: 385d9c24-be5c-5032-a163-7ddab2d35a78
+    measurements:
+      - dimension: teaching
+        score: 1
+        remarks: >
+          I didn't like how you taught me in this specific way.

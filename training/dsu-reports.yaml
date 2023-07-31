@@ -1,0 +1,39 @@
+# The following definition enables the Tome.gg librarian to recognize this YAML format
+# as conforming to the 0.1.0 version of the training definition.
+tomegg:
+  type: training
+  version: 0.1.0
+  definition: https://protocol.tome.gg/training/0.1.0
+
+# Meta information about this report
+meta:
+  format:
+    type: dsu
+    version: 0.1.0
+    definition: https://protocol.tome.gg/formats/dsu/0.1.0
+  # Applies the following tags to all of the content, instead of having to write them
+  # down each time.
+  tags:
+    - daily_stand_up
+
+content:
+  - id: 385d9c24-be5c-5032-a163-7ddab2d35a78
+    datetime: 2023-03-20
+    remarks: |
+      No remarks so far.
+    done_yesterday: |
+      - Task A
+    doing_today: |
+      - Task B
+    blockers: |
+      - None
+  - id: a7fd6a39-b857-585f-9233-85cec2027477
+    datetime: 2023-03-19
+    remarks: |
+      No remarks so far.
+    done_yesterday: |
+      - Task C
+    doing_today: |
+      - Task D
+    blockers: |
+      - None

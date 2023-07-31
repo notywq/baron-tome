@@ -1,0 +1,17 @@
+# version - defines the protocol version of the mapping document
+version: 1
+relationships:
+  # a causal relationship means that SUBJECT causes OBJECT to occur.
+  # source must be a mental model.
+  # operation defines 'improper_use', 'proper_use'.
+  # object must be a context.
+  causal:
+    - subject: "@mental-models/know-yourself"
+      operation: improper_use
+      object: "@contexts/scenario_a"
+  # an occurrence relationship means that SUBJECT occurred in OBJECT.
+  # source must be a mental model.
+  # object must be a context.
+  occurrence:
+    - subject: "@mental-models/know-yourself"
+      object: "@contexts/scenario_b"

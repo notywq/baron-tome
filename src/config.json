@@ -1,0 +1,6 @@
+{
+  "headerText": "My growth",
+  "repositoryUrl": "https://github.com/tome-gg/template",
+  "evaluationDataSource": "https://raw.githubusercontent.com/tome-gg/template/main/evaluations/eval-self.yaml",
+  "trainingDataSource": "https://raw.githubusercontent.com/tome-gg/template/main/training/dsu-reports.yaml"
+}
