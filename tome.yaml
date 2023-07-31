@@ -8,7 +8,7 @@ version: 1
 type: git
 # source - defines where the data/repository is stored. Replace this
 # with the URL of your GitHub repository.
-source: github.com/tome-gg/template
+source: github.com/notywq/tome-gg
 
 # assets - defines the folders where image assets can be found.
 assets:

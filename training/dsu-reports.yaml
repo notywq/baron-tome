@@ -18,22 +18,29 @@ meta:
 
 content:
   - id: 385d9c24-be5c-5032-a163-7ddab2d35a78
-    datetime: 2023-03-20
+    datetime: 2023-07-31
     remarks: |
       No remarks so far.
     done_yesterday: |
-      - Task A
+      - By Yesterday - I mean the dates prior to July 21. Was able to create a full-on notion with all my work so far! Shared to Darren.
     doing_today: |
-      - Task B
+      - Getting Tome Repo and learning it
+      - Getting Tome CLI to work on my end
+      - Write about the experience of Tome.gg onboarding
     blockers: |
       - None
   - id: a7fd6a39-b857-585f-9233-85cec2027477
-    datetime: 2023-03-19
+    datetime: 2023-08-02
     remarks: |
       No remarks so far.
     done_yesterday: |
-      - Task C
+      - Done with Tome Repo and Tome CLI - Docs and more details available in my Tome.gg notion journal.
+      - Created more pages in my Notion to finalize the Tome space there.
+      - Finished writing about Tome CLI and Tome.gg onboarding experiences.
     doing_today: |
-      - Task D
+      - Discuss with Darren the last tasks and his thoughts.
+      - Improve on the process!
+      - Review solana / rust code (Personal)
+      - Talk about content creation
     blockers: |
       - None
