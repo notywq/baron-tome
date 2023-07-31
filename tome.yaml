@@ -11,8 +11,7 @@ type: git
 source: github.com/notywq/baron-tome
 
 # assets - defines the folders where image assets can be found.
-assets:
- - assets/
+assets: assets/
 
 # contents - defines where the tome.gg  content can be found. This is
 # categorized by type of content.

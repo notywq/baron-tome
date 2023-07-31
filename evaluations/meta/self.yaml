@@ -8,16 +8,27 @@ tomegg:
 
 # Meta information about this report
 meta:
+  evaluator:
+    name: Baron
+    socials:
+      email: barondimaranan@gmail.com
+      eth:
   dimensions:
-    - alias: teaching
-      name: teaching
+    - alias: focus
+      name: focus
       version: 0.1.0
-      definition: https://protocol.tome.gg/dimensions/teaching/0.1.0
+      definition: https://protocol.tome.gg/dimensions/focus/0.1.0
 
 evaluations:
   - id: 385d9c24-be5c-5032-a163-7ddab2d35a78
     measurements:
-      - dimension: teaching
-        score: 1
+      - dimension: focus
+        score: 4
         remarks: >
-          I didn't like how you taught me in this specific way.
+          I worked way past my 3 hours. Sorry Darren. I was too hyped and I sincerely had fun.In terms of focus on the work - it is pretty high. In terms of focus and management of time, I lost track. I had a great time though and it wasn't stressful.
+  - id: a7fd6a39-b857-585f-9233-85cec2027477
+    measurements:
+      - dimension: focus
+        score: 2
+        remarks: >
+          This hasn't happened yet - But I will post this to test the Tome.gg deployment process.
